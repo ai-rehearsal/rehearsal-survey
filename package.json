@@ -1,5 +1,6 @@
 {
   "name": "rehearsal-survey",
+  "homepage": "https://ai-rehearsal.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
