@@ -31,7 +31,7 @@ const FadeInUpDiv = styled.div`
   animation: 1s ${keyframes `${fadeInRight}`};
 `;
 
-class End extends React.Component {
+class Finish extends React.Component {
 
     render() {
         return (
@@ -48,4 +48,4 @@ class End extends React.Component {
     }
 }
 
-export default End;
+export default Finish;

@@ -2,7 +2,7 @@ import React from 'react';
 import styled, { keyframes } from 'styled-components';
 import Loading from '../components/loading';
 import Start from '../components/Start';
-import End from '../components/End';
+import Finish from '../components/Finish';
 import { fadeInUp } from 'react-animations';
 
 
