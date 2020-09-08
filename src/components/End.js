@@ -11,8 +11,7 @@ const Background = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
-    padding-left: 70px;
+    align-items: center;
 `;
 
 const TextWrap = styled.div`
