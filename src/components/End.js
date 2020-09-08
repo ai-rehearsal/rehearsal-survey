@@ -42,7 +42,7 @@ class End extends React.Component {
                         당신은 <span style={{color: "rgb(251, 188, 6)", fontWeight: 900}}>삼성전자</span>의<br/>
                         <span style={{color: "rgb(251, 188, 6)", fontWeight: 900}}>경영 직무</span>가 잘 어울립니다.
                     </TextWrap>
-                    <StartButton title="테스트 시작하기>"></StartButton>
+                    <StartButton title="면접 연습하러가기>"></StartButton>
                 </Background>
             </FadeInUpDiv>
         );
